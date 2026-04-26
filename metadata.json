@@ -1,0 +1,6 @@
+{
+  "name": "Bootstrap 5 IntelliSense & Documentation",
+  "description": "A comprehensive IntelliSense tool for Bootstrap 5 classes, providing documentation, live previews, and VS Code snippet generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
